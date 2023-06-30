@@ -1,0 +1,26 @@
+
+  
+  .title .active {
+    color: rgb(197, 116, 9);
+  }
+  
+  input, .btn {
+    padding: 5px;
+  }
+  .btn {
+    background: rgb(241, 241, 7);
+    
+  }
+  
+  .footer:hover input::placeholder {
+    color: rgb(197, 197, 9);
+  }
+  
+  .footer:hover input {
+    background: #ddd;
+  }
+  
+  .footer:hover button {
+    background: rgb(245, 245, 7);
+    color: white;
+  }

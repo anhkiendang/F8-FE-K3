@@ -5,7 +5,7 @@
 }
 
 .container {
-    margin: 10% 0;
+    margin: 10%;
     text-align: center;
 }
 
@@ -24,12 +24,12 @@
 }
 
 .container h1 span {
-    color: #04b0ef;
+    color: #049dd4;
     font-weight: 600;
 }
 
 .container p {
-    margin: 20px 0 30px;
+    margin: 20px 30px;
 }
 
 .container button {
